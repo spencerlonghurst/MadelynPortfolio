@@ -1,0 +1,23 @@
+.about {
+  /* display: flex; */
+}
+
+.aboutImage {
+  /* height: 605px;
+  width: 280px; */
+  margin-left: 410px;
+  margin-top:35px;
+  overflow:hidden;
+
+}
+
+img {
+  display: flex;
+  align-items: center;
+  width: 420px;
+  height: 605px;
+}
+
+.rightColumn {
+  display: flex;
+}
