@@ -5,10 +5,9 @@ function Header() {
   return (
     <div className='header'>
       <div className='innerHeader'>
-      <h2>FORECASTING</h2>
-      <p className='innerLine'/>
-      <h2>CONTACT</h2>
-      {/* <p>____________________________________________________</p> */}
+        <a href=''>FORECASTING</a>
+        <p className='innerLine'/>
+        <a href=''>CONTACT</a>
       </div>
     </div>
   )

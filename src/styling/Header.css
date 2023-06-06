@@ -1,11 +1,15 @@
 .header {
   display: flex;
   justify-content: center;
-
+  padding-top: 35px;
+  font-family: YAEnXdJOdyU-0;
+  font-weight: 700;
+  font-size: 21px;
 }
 
-h2 {
+a {
   color: #595c58;
+  width: 160px
 }
 h6 {
   color: #97b9ce
@@ -13,12 +17,16 @@ h6 {
 .innerHeader {
   display: flex;
   border-bottom: #595c58 1px solid;
-  width: 1000px;
+  padding-bottom: 15px;
+  width: 1365px;
   justify-content: center;
   align-items: center;
 }
 .innerLine {
+  display: flex;
   border-top: #97b9ce 2px solid;
-  width: 200px;
-  height: 0px
+  width: 280px;
+  height: 0px;
+  margin: 0 30px 0 30px;
+  align-items: center;
 }
