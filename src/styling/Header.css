@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: center;
+
+}
+
+h2 {
+  color: #595c58;
+}
+h6 {
+  color: #97b9ce
+}
+.innerHeader {
+  display: flex;
+  border-bottom: #595c58 1px solid;
+  width: 1000px;
+  justify-content: center;
+  align-items: center;
+}
+.innerLine {
+  border-top: #97b9ce 2px solid;
+  width: 200px;
+  height: 0px
+}
