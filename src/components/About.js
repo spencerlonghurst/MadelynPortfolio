@@ -18,12 +18,12 @@ function About() {
           <p>DIGITAL MEDIA STRATEGY FOR MARKETING CAMPAIGNS.</p>
         </div>
         <div>
-          <p>MY INTENTION IS TO ENGAGE, EDUCATE, DELIGHT, AND DRIVE BUSINESS GROWTH IN</p>
-          <p>ALIGNMENT WITH COMPANY GOALS.</p>
+          <p><b>MY INTENTION IS TO ENGAGE, EDUCATE, DELIGHT, AND DRIVE BUSINESS GROWTH IN</b></p>
+          <p><b>ALIGNMENT WITH COMPANY GOALS.</b></p>
         </div>
         <div>
           <p>I'VE ANALYZED AND CREATED HUNDREDS OF CONVERTING CAMPAIGNS  THAT HAVE</p>
-          <p>INCREASED NET NEW CUSTOMER GROWTH BY 50% YOY.</p>
+          <p>INCREASED <b>NET NEW CUSTOMER GROWTH</b> BY <b>50% YOY.</b></p>
           <p>BY USING DATA-DRIVEN ANALYTICS TO ASSESS REAL-TIME PROGRAM PERFORMANCE AND</p>
           <p>BUILD STRATEGIC MEDIA PLANS TO LEVERAGE EXISTING CONTENT AND LAUNCHES TO</p>
           <p>REACH NEW AUDIENCES  OPTIMIZING FOR DRIVING A HIGH-QUALIFIED PIPELINE.</p>
@@ -34,10 +34,10 @@ function About() {
           <p>EFFECTIVE MARKETERS.</p>
         </div>
         <div>
-          <p>I'M CONFIDENT THAT WORKING TOGETHER WILL BE A SUCCESS!</p>
+          <p><b>I'M CONFIDENT THAT WORKING TOGETHER WILL BE A SUCCESS!</b></p>
         </div>
         <div>
-          <p>-Madelyn</p>
+          <p className='signature'>-Madelyn</p>
         </div>
       </div>
     </div>

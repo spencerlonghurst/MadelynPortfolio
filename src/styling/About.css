@@ -1,23 +1,46 @@
 .about {
-  /* display: flex; */
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
 }
 
 .aboutImage {
   /* height: 605px;
   width: 280px; */
-  margin-left: 410px;
+  /* margin-left: 410px; */
   margin-top:35px;
-  overflow:hidden;
+  /* overflow:hidden; */
 
 }
 
 img {
-  display: flex;
-  align-items: center;
+  /* display: flex; */
+  /* align-items: center; */
   width: 420px;
   height: 605px;
 }
 
 .rightColumn {
   display: flex;
+  flex-direction: column;
+  margin-top: 35px;
+  margin-left: 15px;
+}
+
+.rightColumn p {
+  margin: 10px;
+  /* font-family: 'Fjalla One';
+  font-size: 20px */
+}
+
+h2 {
+  font-size: 50px;
+  color: #97b9ce
+}
+
+.signature {
+  font-family: 'Great Vibes';
+  font-size: 40px;
+  color: #97b9ce;
+  padding-left: 480px;
 }
