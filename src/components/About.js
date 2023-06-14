@@ -6,7 +6,7 @@ function About() {
   return (
     <div className='about'>
       <div className='aboutImage'>
-        <img src={require('../styling/aboutImg.jpg')} alt='About'/>
+        <img className='innerAboutImg' src={require('../styling/aboutImg.jpg')} alt='About'/>
       </div>
       <div className='rightColumn'>
         <div>

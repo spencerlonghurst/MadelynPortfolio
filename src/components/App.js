@@ -1,6 +1,7 @@
 import '../styling/App.css';
 import Header from './Header';
 import About from './About';
+import Content from './Content';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header/>
       <About/>
       </div>
+      <Content/>
     </div>
   );
 }

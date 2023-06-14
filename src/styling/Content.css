@@ -1,0 +1,22 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.february, .twentyThree, .budgetOne, .budgetTwo {
+  display: flex;
+  width: 70%;
+  object-fit: contain;
+}
+/* img {
+  height: 708px;
+  width: 1491px;
+} */
