@@ -6,9 +6,12 @@
 }
 
 
-h1 {
+.contentTitle {
   display: flex;
   justify-content: center;
+  font-family: 'Playfair Display';
+  font-size: 40px;
+  width:800px;
 }
 
 .february, .twentyThree, .budgetOne, .budgetTwo {
@@ -16,7 +19,26 @@ h1 {
   width: 70%;
   object-fit: contain;
 }
-/* img {
-  height: 708px;
-  width: 1491px;
-} */
+.budget {
+  font-size: 21px;
+  color: #595c58;
+  
+}
+
+.forecast {
+  margin-top: 50px;
+}
+
+.fullSpreadsheet {
+  color: #595c58;
+}
+
+.spreadsheet {
+  font-size: 32px;
+  /* display: flex; */
+  /* width: 240px; */
+}
+
+.full {
+  margin-top:20px;
+}

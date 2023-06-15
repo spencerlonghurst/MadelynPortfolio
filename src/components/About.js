@@ -10,8 +10,8 @@ function About() {
       </div>
       <div className='rightColumn'>
         <div>
-          <h2>MEET</h2>
-          <h2>MADELYN</h2>
+          <h2 className='aboutTitle'>MEET</h2>
+          <h2 className='aboutTitle'>MADELYN</h2>
         </div>
         <div>
           <p>TAKE A LOOK THROUGH THIS ACQUISITION-FOCUSED</p>

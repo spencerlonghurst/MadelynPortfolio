@@ -7,13 +7,16 @@
   font-size: 21px;
 }
 
-a {
+.forecastingTag {
   color: #595c58;
   width: 160px
 }
-h6 {
-  color: #97b9ce
+
+.contactTag {
+  color: #595c58;
+  width: 160px
 }
+
 .innerHeader {
   display: flex;
   border-bottom: #595c58 1px solid;
