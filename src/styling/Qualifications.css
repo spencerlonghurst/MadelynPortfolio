@@ -1,0 +1,16 @@
+.qualifications {
+  display: flex;
+  justify-content: center;
+}
+
+.qualLeft {
+  margin-left: -500px;
+}
+
+.potato {
+  height: 500px;
+}
+
+.qualRight {
+  margin-left: 100px;
+}
