@@ -1,16 +1,17 @@
 .qualifications {
+  margin-top: 25px;
   display: flex;
   justify-content: center;
 }
 
-.qualLeft {
-  margin-left: -500px;
-}
-
-.potato {
+.qualPhoto {
   height: 500px;
 }
 
 .qualRight {
   margin-left: 100px;
+}
+
+li {
+  padding: 5px 0px;
 }
