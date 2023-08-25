@@ -33,3 +33,39 @@
   margin: 0 30px 0 30px;
   align-items: center;
 }
+
+@media all and (max-width: 1400px) {
+  .innerHeader {
+    width: 1265px;
+  }
+}
+
+@media all and (max-width: 1300px) {
+  .innerHeader {
+    width: 1165px;
+  }
+}
+
+@media all and (max-width: 1200px) {
+  .innerHeader {
+    width: 1065px;
+  }
+}
+
+@media all and (max-width: 1100px) {
+  .innerHeader {
+    width: 965px;
+  }
+}
+
+@media all and (max-width: 1000px) {
+  .innerHeader {
+    width: 865px;
+  }
+}
+
+@media all and (max-width: 900px) {
+  .innerHeader {
+    width: 765px;
+  }
+}

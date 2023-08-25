@@ -7,12 +7,14 @@ import Qualifications from "./Qualifications";
 function App() {
   return (
     <div className="App">
+      <div>
       <div className='top'>
-      <Header/>
-      <About/>
+        <Header/>
+        <About/>
       </div>
       <Content/>
       <Qualifications/>
+    </div>
     </div>
   );
 }
